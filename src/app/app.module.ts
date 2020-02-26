@@ -13,7 +13,6 @@ import { QuestionFormComponent } from './question-form/question-form.component';
   ],
   imports: [
     BrowserModule,
-    NgModule,
     HttpClientModule,
     ReactiveFormsModule
   ],
