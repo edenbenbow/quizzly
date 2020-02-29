@@ -8,8 +8,9 @@ import { AppComponent } from './app.component';
 import { QuestionFormComponent } from './question-form/question-form.component';
 import { ResultsComponent } from './results/results.component';
 import { QuestionsComponent } from './questions/questions.component';
+import { WelcomeComponent } from './welcome/welcome.component';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
-// import {MatCardModule} from '@angular/material';
+import {MatCardModule} from '@angular/material/card';
 
 const appRoutes: Routes = [
   { path: 'welcome', component: WelcomeComponent },
@@ -22,15 +23,16 @@ const appRoutes: Routes = [
     AppComponent,
     QuestionFormComponent,
     ResultsComponent,
-    QuestionsComponent
+    QuestionsComponent,
+    WelcomeComponent
   ],
   imports: [
     BrowserModule,
     HttpClientModule,
     ReactiveFormsModule,
     RouterModule.forRoot(appRoutes),
-    BrowserAnimationsModule
-    // MatCardModule
+    BrowserAnimationsModule,
+    MatCardModule
   ],
   providers: [],
   bootstrap: [AppComponent]
