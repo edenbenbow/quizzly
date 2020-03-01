@@ -1,0 +1,106 @@
+[
+  {
+    "label": "What was Gollum's original name?",
+    "choices": [
+      {
+        "value": "Déagol",
+        "correct": false
+      },
+      {
+        "value": "Longo",
+        "correct": false
+      },
+      {
+        "value": "Sméagol",
+        "correct": true      },
+      {
+        "value": "Cyril",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "In The Return of the King, who tells Frodo, 'Come on, Mr. Frodo. I can't carry it for you... but I can carry you!' ",
+    "choices": [
+      {
+        "value": "Aragorn",
+        "correct": false
+      },
+      {
+        "value": "Gandalf the White",
+        "correct": false
+      },
+      {
+        "value": "Peregrin Took",
+        "correct": false
+      },
+      {
+        "value": "Samwise Gamgee",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "What is Arwen and Aragorn's age difference?",
+    "choices": [
+      {
+        "value": "2,690 years",
+        "correct": true
+      },
+      {
+        "value": "269 years",
+        "correct": false
+      },
+      {
+        "value": "26.9 years",
+        "correct": false
+      },
+      {
+        "value": "They're the same age",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Legolas' title was Prince of ________ ?",
+    "choices": [
+      {
+        "value": "Lórien",
+        "correct": false
+      },
+      {
+        "value": "Rivendell",
+        "correct": false
+      },
+      {
+        "value": "the Woodland Realm",
+        "correct": true
+      },
+      {
+        "value": "Doriath",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "All of the following were Dwarvish clans, except which?",
+    "choices": [
+      {
+        "value": "Longbeards",
+        "correct": false
+      },
+      {
+        "value": "Ironfists",
+        "correct": false
+      },
+      {
+        "value": "Jabberhammers",
+        "correct": true
+      },
+      {
+        "value": "Stonefoots",
+        "correct": false
+      }
+    ]
+  }
+]
