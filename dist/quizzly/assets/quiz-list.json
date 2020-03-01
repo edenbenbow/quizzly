@@ -1,0 +1,12 @@
+[
+  {
+    "label": "Lord of the Rings",
+    "name": "lotr",
+    "fileName": "lotr.json"
+  },
+  {
+    "label": "French",
+    "name": "french",
+    "fileName": "french.json"
+  }
+]
